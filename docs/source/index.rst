@@ -3,14 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to HK's documentation!
-==============================
+
+MyWiki 文档
+========================================
+
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   :maxdepth: 4
+   :caption: 目录:
 
-
+   _templates/JUC
+   _templates/JVM
+   _templates/JVMforInterview
 
 Indices and tables
 ==================
